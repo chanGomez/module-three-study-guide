@@ -109,6 +109,7 @@ console.log(customMessage("Nice to see you,", "Ava"));
     "name": "Old Fashioned"
   }
 ]
+//Answer: Data gets export by default with JSON
 ```
 
 ## Importing JSON
