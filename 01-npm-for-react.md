@@ -47,6 +47,7 @@ import importedMessage from "./messages.js";
 // messages.js
 export { message, anotherMessage };
 import { message, anotherMessage } from "./messages.js";
+//exporting and importing variables or functions with these names from that file
 ```
 
 ## Renaming Imported Modules
