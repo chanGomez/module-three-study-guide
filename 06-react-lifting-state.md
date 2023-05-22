@@ -27,6 +27,7 @@
 
 - What are the advantages of a downward data flow?
 - What do we use to send data upwards?
+- A: event handlers
 
 ![](./images/lift-state.png)
 
